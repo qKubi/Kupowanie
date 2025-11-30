@@ -1,1 +1,2 @@
 # Kupowanie
+db name = 'buy'
