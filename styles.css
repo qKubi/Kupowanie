@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+}
+header,footer{
+    height: 150px;
+    background-color: darkgray;
+    width: 100%;
+    padding-top: 2%;
+}
+main{
+    height: 350px;
+    width: 70%;
+    padding-top: 1%;
+    overflow: auto;
+    float: left ;
+}
+.sidea,.sideb{
+    height: 350px;
+    width: 15%;
+    background-image: url('basic.gif');
+    margin-top:0.5%;
+}
+.sidea{
+    float: left;
+}
+.sideb{
+    float: right;
+}
+footer{
+    font-weight: bold;
+    font-size: 170%;
+    letter-spacing: 10px;
+    clear: both;
+}
+.thing{
+    border: 1px solid black;
+    padding: 1%;
+    margin: 0.5%;
+    background-color: lightgray;
+}
+.amount{
+    width: 10%;
+}
