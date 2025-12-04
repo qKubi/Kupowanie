@@ -1,2 +1,2 @@
 # Kupowanie
-db name = 'buy'
+Nazwa bazy danych! = 'buy'
